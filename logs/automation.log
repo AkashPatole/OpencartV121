@@ -1,0 +1,15 @@
+11:36:58.444 [TestNG-tests-1] INFO  testCases.TC_00_RegistrationTest - ******Starting TC_00_RegistrationTest *****
+11:36:58.614 [TestNG-tests-1] INFO  testCases.TC_00_RegistrationTest - ***Clicked on MyAccount Link*****
+11:36:59.146 [TestNG-tests-1] INFO  testCases.TC_00_RegistrationTest - ***Clicked on Register Link*****
+11:36:59.148 [TestNG-tests-1] INFO  testCases.TC_00_RegistrationTest - ***Providing customer details*****
+11:37:00.299 [TestNG-tests-1] INFO  testCases.TC_00_RegistrationTest - ******Finished TC_00_RegistrationTest *****
+13:01:37.197 [TestNG-tests-1] INFO  testCases.TC_00_RegistrationTest - ******Starting TC_00_RegistrationTest *****
+13:01:37.441 [TestNG-tests-1] INFO  testCases.TC_00_RegistrationTest - ***Clicked on MyAccount Link*****
+13:01:37.861 [TestNG-tests-1] INFO  testCases.TC_00_RegistrationTest - ***Clicked on Register Link*****
+13:01:37.892 [TestNG-tests-1] INFO  testCases.TC_00_RegistrationTest - ***Providing customer details*****
+13:01:39.186 [TestNG-tests-1] INFO  testCases.TC_00_RegistrationTest - ******Finished TC_00_RegistrationTest *****
+13:04:07.563 [TestNG-tests-1] INFO  testCases.TC_00_RegistrationTest - ******Starting TC_00_RegistrationTest *****
+13:04:07.723 [TestNG-tests-1] INFO  testCases.TC_00_RegistrationTest - ***Clicked on MyAccount Link*****
+13:04:08.061 [TestNG-tests-1] INFO  testCases.TC_00_RegistrationTest - ***Clicked on Register Link*****
+13:04:08.065 [TestNG-tests-1] INFO  testCases.TC_00_RegistrationTest - ***Providing customer details*****
+13:04:10.328 [TestNG-tests-1] INFO  testCases.TC_00_RegistrationTest - ******Finished TC_00_RegistrationTest *****

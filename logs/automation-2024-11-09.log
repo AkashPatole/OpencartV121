@@ -1,0 +1,75 @@
+12:03:34.216 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Credence\automation\OpencartV121\grouping.xml
+
+12:04:09.854 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Credence\automation\OpencartV121\grouping.xml
+
+12:04:17.603 [TestNG-tests-1] INFO  testCases.TC_00_RegistrationTest - ******Starting TC_00_RegistrationTest *****
+12:04:17.729 [TestNG-tests-1] INFO  testCases.TC_00_RegistrationTest - ***Clicked on MyAccount Link*****
+12:04:18.079 [TestNG-tests-1] INFO  testCases.TC_00_RegistrationTest - ***Clicked on Register Link*****
+12:04:18.082 [TestNG-tests-1] INFO  testCases.TC_00_RegistrationTest - ***Providing customer details*****
+12:04:19.193 [TestNG-tests-1] INFO  testCases.TC_00_RegistrationTest - ******Finished TC_00_RegistrationTest *****
+12:04:45.974 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Credence\automation\OpencartV121\grouping.xml
+
+12:04:49.847 [TestNG-tests-1] INFO  testCases.TC_00_RegistrationTest - ******Starting TC_00_RegistrationTest *****
+12:04:49.970 [TestNG-tests-1] INFO  testCases.TC_00_RegistrationTest - ***Clicked on MyAccount Link*****
+12:04:50.451 [TestNG-tests-1] INFO  testCases.TC_00_RegistrationTest - ***Clicked on Register Link*****
+12:04:50.455 [TestNG-tests-1] INFO  testCases.TC_00_RegistrationTest - ***Providing customer details*****
+12:04:51.793 [TestNG-tests-1] INFO  testCases.TC_00_RegistrationTest - ******Finished TC_00_RegistrationTest *****
+13:55:11.646 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Credence\automation\OpencartV121\grouping.xml
+
+13:55:17.558 [TestNG-tests-1] INFO  testCases.TC_00_RegistrationTest - ******Starting TC_00_RegistrationTest *****
+13:55:17.682 [TestNG-tests-1] INFO  testCases.TC_00_RegistrationTest - ***Clicked on MyAccount Link*****
+13:55:18.146 [TestNG-tests-1] INFO  testCases.TC_00_RegistrationTest - ***Clicked on Register Link*****
+13:55:18.149 [TestNG-tests-1] INFO  testCases.TC_00_RegistrationTest - ***Providing customer details*****
+13:55:19.444 [TestNG-tests-1] INFO  testCases.TC_00_RegistrationTest - ******Finished TC_00_RegistrationTest *****
+14:06:13.304 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Credence\automation\OpencartV121\test-output\testng-failed.xml
+
+17:54:15.377 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Credence\automation\OpencartV121\grouping.xml
+
+18:02:55.867 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Credence\automation\OpencartV121\testng.xml
+
+18:03:42.675 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Credence\automation\OpencartV121\testng.xml
+
+18:04:37.988 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Credence\automation\OpencartV121\testng.xml
+
+18:06:46.999 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Credence\automation\OpencartV121\testng.xml
+
+18:56:37.864 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Credence\automation\OpencartV121\testng.xml
+
+10:56:16.479 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Credence\automation\OpencartV121\grouping.xml
+
+10:56:48.929 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Credence\automation\OpencartV121\grouping.xml
+
+11:00:23.488 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Credence\automation\OpencartV121\grouping.xml
+
+11:00:26.760 [TestNG-tests-1] INFO  testCases.TC_00_RegistrationTest - ******Starting TC_00_RegistrationTest *****
+11:00:26.861 [TestNG-tests-1] INFO  testCases.TC_00_RegistrationTest - ***Clicked on MyAccount Link*****
+11:00:27.457 [TestNG-tests-1] INFO  testCases.TC_00_RegistrationTest - ***Clicked on Register Link*****
+11:00:27.468 [TestNG-tests-1] INFO  testCases.TC_00_RegistrationTest - ***Providing customer details*****
+11:00:28.807 [TestNG-tests-1] INFO  testCases.TC_00_RegistrationTest - ******Finished TC_00_RegistrationTest *****
+11:33:26.453 [main] INFO  testCases.TC_00_RegistrationTest - ******Starting TC_00_RegistrationTest *****
+11:33:26.711 [main] INFO  testCases.TC_00_RegistrationTest - ***Clicked on MyAccount Link*****
+11:33:27.161 [main] INFO  testCases.TC_00_RegistrationTest - ***Clicked on Register Link*****
+11:33:27.166 [main] INFO  testCases.TC_00_RegistrationTest - ***Providing customer details*****
+11:33:28.455 [main] INFO  testCases.TC_00_RegistrationTest - ******Finished TC_00_RegistrationTest *****
+11:34:33.255 [main] INFO  testCases.TC_00_RegistrationTest - ******Starting TC_00_RegistrationTest *****
+11:34:33.379 [main] INFO  testCases.TC_00_RegistrationTest - ***Clicked on MyAccount Link*****
+11:34:34.014 [main] INFO  testCases.TC_00_RegistrationTest - ***Clicked on Register Link*****
+11:34:34.017 [main] INFO  testCases.TC_00_RegistrationTest - ***Providing customer details*****
+11:34:35.229 [main] INFO  testCases.TC_00_RegistrationTest - ******Finished TC_00_RegistrationTest *****
+11:36:54.108 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Credence\automation\OpencartV121\grouping.xml
+
